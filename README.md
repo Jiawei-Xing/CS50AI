@@ -1,1 +1,2 @@
-# CS50AI: Introduction to Artificial Intelligence with Python
+# CS50AI
+Introduction to Artificial Intelligence with Python
